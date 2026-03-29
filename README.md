@@ -20,8 +20,4 @@ O sistema oferece gestão completa de ordens de serviço, estoque, financeiro e 
 - [Pandas](https://pandas.pydata.org/) para manipulação e análise.
 - [Python](https://www.python.org/) como linguagem principal.
 
-## 📦 Instalação
-Clone o repositório:
-```bash
-git clone https://github.com/SeuUsuario/OficinaPro-SaaS.git
-cd OficinaPro-SaaS
+
